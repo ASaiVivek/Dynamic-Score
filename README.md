@@ -1,5 +1,5 @@
 # Dynamic-Score
-Made a Basic level React App using CDN (React, React-DOM, Babel)
++ Made a Basic level React App using CDN (React, React-DOM, Babel)
 
 ## CDN:
 ###    <script src="https://unpkg.com/react@17/umd/react.production.min.js"></script>
